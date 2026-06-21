@@ -4,10 +4,10 @@ import streamlit as st
 st.set_page_config(page_title="Generator RPS PSEP", page_icon="🎓", layout="wide")
 
 # --- HEADER ---
-st.title("🎓 Generator RPS Integratif")
+st.title("🎓 Generator RPS")
 st.subheader("Program Studi Ekonomi Pembangunan - Universitas Islam Bandung")
 st.markdown("Aplikasi ini membantu dosen merumuskan indikator sikap (CPL S1 & S2) secara otomatis berdasarkan Rumpun Bahan Kajian Kurikulum 2026.")
-st.markdown("---")
+st.markdown("Yuhka Sundaya")
 
 # --- DATABASE ROUTING (Berdasarkan Buku Pedoman) ---
 ROUTING_DB = {
