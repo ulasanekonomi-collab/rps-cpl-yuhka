@@ -13,7 +13,7 @@ st.markdown("Yuhka Sundaya")
 ROUTING_DB = {
     "BK 2 & 8: Analisis Data, Kuantitatif & AI": {
         "channel": "Channel 1: Analytical & Computational",
-        "sikap": "S1.A - The Mujahid Persona (Rigoritas & Integritas Proses)",
+        "sikap": "S1 - Menunjukkan sikap ketakwaan kepada Allah SWT dengan menginternalisasi nilai 3M, serta menjunjung tinggi integritas, kejujuran, etika akademik, dan tanggung jawab sosial dalam kehidupan profesional. ",
         "indikator": "Menunjukkan ketangguhan (fighting spirit) dalam mengurai kompleksitas teknis, memaparkan algoritma berpikir secara transparan, dan menjunjung kejujuran mutlak (zero plagiarism).",
         "metode": "Logbook/Pengecekan Source Code & Transparansi Kalkulasi",
         "rubrik_5": "Sangat mandiri, alur logis transparan, jujur mengakui error, dan tidak ada indikasi manipulasi data."
