@@ -13,14 +13,14 @@ st.markdown("Yuhka Sundaya")
 ROUTING_DB = {
     "BK 2 & 8: Analisis Data, Kuantitatif & AI": {
         "channel": "Channel 1: Analytical & Computational",
-        "sikap": "S1 - Menunjukkan sikap ketakwaan kepada Allah SWT dengan menginternalisasi nilai 3M, serta menjunjung tinggi integritas, kejujuran, etika akademik, dan tanggung jawab sosial dalam kehidupan profesional. ",
+        "sikap": "S1.A - Mujahid Persona (Integritas)",
         "indikator": "Menunjukkan ketangguhan (fighting spirit) dalam mengurai kompleksitas teknis, memaparkan algoritma berpikir secara transparan, dan menjunjung kejujuran mutlak (zero plagiarism).",
         "metode": "Logbook/Pengecekan Source Code & Transparansi Kalkulasi",
         "rubrik_5": "Sangat mandiri, alur logis transparan, jujur mengakui error, dan tidak ada indikasi manipulasi data."
     },
     "BK 1: Fondasi Teori Ekonomi Pembangunan": {
         "channel": "Channel 2: Epistemological & Theoretical",
-        "sikap": "S1.B - The Mujtahid Persona (Validasi & Skeptisisme Asumsi)",
+        "sikap": "S1.B - Mujtahid Persona (Validasi & Skeptisisme Asumsi)",
         "indikator": "Menunjukkan nalar kritis (organized skepticism) dalam menguji validitas asumsi teori konvensional dan objektivitas menilai mazhab.",
         "metode": "Esai Analisis Kritis (Paragraf Deduktif)",
         "rubrik_5": "Secara tajam membongkar kelemahan asumsi dasar teori dan membandingkannya menggunakan literatur yang sahih tanpa bias."
